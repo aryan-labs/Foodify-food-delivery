@@ -1,5 +1,5 @@
-﻿# Tomato-food-delivery
+﻿#Foodify-food-delivery
 
-
-frontend:https://tomato-food-delivery-frontend-2827.onrender.com
-backend:https://tomato-food-delivery-backend-wcht.onrender.com
+frontend:https://foodify-food-delivery-83p4.onrender.com
+backend:https://foodify-backend-edpg.onrender.com/
+admin:https://foodify-admin-5far.onrender.com
